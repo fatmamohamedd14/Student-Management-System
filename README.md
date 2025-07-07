@@ -32,9 +32,6 @@ This is a desktop application built using **C# (.NET 9.0)** and **Entity Framewo
 - Used `Include` / `ThenInclude` to load related data efficiently  
 - Input validation and proper error handling with `try-catch`
 
-## 📷 Screenshots
-
-*Add here a screenshot of the main form, reports, or table display*
 
 ## 📦 How to Run
 
